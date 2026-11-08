@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\Play Paper, Rock, Scissors Evoled\Play Paper, Rock, Scissors Evoled\bin\Debug\Play Paper, Rock, Scissors Evoled.exe.config
+C:\Users\USUARIO\source\repos\Play Paper, Rock, Scissors Evoled\Play Paper, Rock, Scissors Evoled\bin\Debug\Play Paper, Rock, Scissors Evoled.exe
+C:\Users\USUARIO\source\repos\Play Paper, Rock, Scissors Evoled\Play Paper, Rock, Scissors Evoled\bin\Debug\Play Paper, Rock, Scissors Evoled.pdb
+C:\Users\USUARIO\source\repos\Play Paper, Rock, Scissors Evoled\Play Paper, Rock, Scissors Evoled\obj\Debug\Play Paper, Rock, Scissors Evoled.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Play Paper, Rock, Scissors Evoled\Play Paper, Rock, Scissors Evoled\obj\Debug\Play_Paper__Rock__Scissors_Evoled.Form1.resources
+C:\Users\USUARIO\source\repos\Play Paper, Rock, Scissors Evoled\Play Paper, Rock, Scissors Evoled\obj\Debug\Play_Paper__Rock__Scissors_Evoled.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\Play Paper, Rock, Scissors Evoled\Play Paper, Rock, Scissors Evoled\obj\Debug\Play Paper, Rock, Scissors Evoled.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\Play Paper, Rock, Scissors Evoled\Play Paper, Rock, Scissors Evoled\obj\Debug\Play Paper, Rock, Scissors Evoled.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Play Paper, Rock, Scissors Evoled\Play Paper, Rock, Scissors Evoled\obj\Debug\Play Paper, Rock, Scissors Evoled.exe
+C:\Users\USUARIO\source\repos\Play Paper, Rock, Scissors Evoled\Play Paper, Rock, Scissors Evoled\obj\Debug\Play Paper, Rock, Scissors Evoled.pdb
