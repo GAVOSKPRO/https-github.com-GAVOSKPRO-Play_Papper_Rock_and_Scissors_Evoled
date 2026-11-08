@@ -10,6 +10,8 @@ using System.Windows.Forms;
 
 namespace Play_Paper__Rock__Scissors_Evoled
 {
+
+    //Hola este es un comentario, 
     public partial class Form1 : Form
     {
         // -------------------------
